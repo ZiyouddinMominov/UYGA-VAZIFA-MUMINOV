@@ -22,8 +22,7 @@
 // }
 // console.log(sum1([1, 2, 3, 4, 5, 6, 7]));
 // 4-misol
-
-// function ex4(arg ){
+// function counter(arg ){
 //     let sum = [ ];
 // for (const item of arg) {
 //         if (item % 2 == 1) {
@@ -32,11 +31,8 @@
 //     }
 //     return sum
 // }
-
-// console.log(ex4([1, 2, 3, 4, 5]));
-
-// 6-misol
-
+// console.log counter([1, 2, 3, 4, 5]));
+// UYGA VAZIFA 6 - MASALA
 // function ex6(arg){
 //     let sum = 0;
 //     let res = 0;
@@ -53,13 +49,11 @@
 //     }
 //     return res
 // }
-
 // console.log(ex6([21, 42, 13, 14, 15, 16, 17]));
-
-// 7-misol
-
+// UYGA VAZIFA 5 I DON'T KNOW
+//UYGA VAZIFA 7 MASALA
 // function ex7(arg ){
-//     let sum = 1;git 
+//     let sum = 1;git
 // for (const item of arg) {
 //         if (item % 7 == 0 && item % 3 == 0) {
 //             sum *= item;
@@ -67,5 +61,4 @@
 //     }
 //     return sum
 // }
-
 // console.log(ex7([21, 42, 13, 14, 15, 16, 17]));
