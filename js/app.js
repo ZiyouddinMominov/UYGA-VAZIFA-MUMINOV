@@ -25,8 +25,8 @@
 
 // function ex4(arg ){
 //     let sum = [ ];
-// for (const iterator of arg) {
-//         if (iterator % 2 == 1) {
+// for (const item of arg) {
+//         if (item % 2 == 1) {
 //             sum++;
 //         }
 //     }
@@ -40,9 +40,9 @@
 // function ex6(arg){
 //     let sum = 0;
 //     let res = 0;
-//     for (const iterator of arg) {
-//         for (let i = 1; i <= iterator; i++){
-//             if (iterator % i == 0) {
+//     for (const item of arg) {
+//         for (let i = 1; i <= item; i++){
+//             if (item % i == 0) {
 //                 sum++;
 //             }
 //             if (sum == 2){
@@ -59,10 +59,10 @@
 // 7-misol
 
 // function ex7(arg ){
-//     let sum = 1;
-// for (const iterator of arg) {
-//         if (iterator % 7 == 0 && iterator % 3 == 0) {
-//             sum *= iterator;
+//     let sum = 1;git 
+// for (const item of arg) {
+//         if (item % 7 == 0 && item % 3 == 0) {
+//             sum *= item;
 //         }
 //     }
 //     return sum
