@@ -52,13 +52,14 @@
 // console.log(ex6([21, 42, 13, 14, 15, 16, 17]));
 // UYGA VAZIFA 5 I DON'T KNOW
 //UYGA VAZIFA 7 MASALA
-// function ex7(arg ){
-//     let sum = 1;git
-// for (const item of arg) {
-//         if (item % 7 == 0 && item % 3 == 0) {
-//             sum *= item;
-//         }
+// function number7(arg) {
+//   let sum = 1;
+//   git;
+//   for (const item of arg) {
+//     if (item % 7 == 0 && item % 3 == 0) {
+//       sum *= item;
 //     }
-//     return sum
+//   }
+//   return sum;
 // }
-// console.log(ex7([21, 42, 13, 14, 15, 16, 17]));
+// console.log(number7([21, 42, 13, 14, 15, 16, 17]));
